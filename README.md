@@ -1,5 +1,10 @@
 # ESP32 Discrete Transistor Stepper Driver (28BYJ-48)
 
+<p align="center">
+  <img src="circuit.png" width="350">
+</p>
+
+
 ## Project Description
 
 This project controls a 28BYJ-48 unipolar stepper motor using an ESP32 and a discrete transistor driver circuit. Instead of an IC like ULN2003, it uses 2N2222 NPN transistors and 1N4005 flyback diodes to demonstrate low-level motor control, current switching, and inductive load protection.
