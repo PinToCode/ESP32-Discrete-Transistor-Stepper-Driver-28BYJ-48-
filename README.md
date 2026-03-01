@@ -1,7 +1,7 @@
 # ESP32 Discrete Transistor Stepper Driver (28BYJ-48)
 
 <p align="center">
-  <img src="circuit.png" width="350">
+  <img src="circuit.jpeg" width="350">
 </p>
 
 
