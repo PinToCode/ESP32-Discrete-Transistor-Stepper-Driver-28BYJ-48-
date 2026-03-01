@@ -23,3 +23,14 @@ This project controls a 28BYJ-48 unipolar stepper motor using an ESP32 and a dis
 ## Notes
 - Do not power the motor from the ESP32 5V pin
 - Ensure common ground between ESP32 and motor supply
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+---
+
+## Author
+
+**Jerit Jose**  
+Embedded Systems & IoT Developer
